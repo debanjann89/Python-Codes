@@ -1,7 +1,7 @@
 
        
 decimal_number = int(input("Enter a decimal number: "))
-original_number = decimal_number  # Store the original number for reference
+original_number = decimal_number  
 
         
 if decimal_number == 0:
